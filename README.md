@@ -58,4 +58,4 @@ O processo exige certificados válidos e configuração de licenças no OutSyste
 
 ---
 
-Este projeto representa não apenas domínio técnico da plataforma, mas também sensibilidade para criar **aplicações centradas no usuário** com alto valor prático. Uma demonstração de como a tecnologia pode, de forma simples, facilitar o cotidiano.
+Feito por mim, este projeto representa não apenas domínio técnico da plataforma, mas também sensibilidade para criar **aplicações centradas no usuário** com alto valor prático. Uma demonstração de como a tecnologia pode, de forma simples, facilitar o cotidiano.
