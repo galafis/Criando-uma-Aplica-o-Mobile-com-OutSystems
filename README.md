@@ -59,3 +59,23 @@ O processo exige certificados válidos e configuração de licenças no OutSyste
 ---
 
 Este projeto representa não apenas domínio técnico da plataforma, mas também sensibilidade para criar **aplicações centradas no usuário** com alto valor prático. Uma demonstração de como a tecnologia pode, de forma simples, facilitar o cotidiano.
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
