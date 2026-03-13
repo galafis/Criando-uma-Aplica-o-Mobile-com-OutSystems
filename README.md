@@ -6,6 +6,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 </div>
 
@@ -113,6 +114,7 @@ Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+[![Docker](https://img.shields.io/badge/Docker-Ready-2496ED.svg?logo=docker)](Dockerfile)
 
 </div>
 
@@ -219,30 +221,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 **GitHub**: [@galafis](https://github.com/galafis)
 
 
----
-
-## English
-
-### Overview
-
-📱 DIOGerenciamento – Aplicativo Mobile com OutSystems - A project built with SQL, OutSystems, developed by Gabriel Demetrios Lafis as part of professional portfolio and continuous learning in Data Science and Software Engineering.
-
-### Key Features
-
-This project demonstrates practical application of modern development concepts including clean code architecture, responsive design patterns, and industry-standard best practices. The implementation showcases real-world problem solving with production-ready code quality.
-
-### How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/galafis/Criando-uma-Aplica-o-Mobile-com-OutSystems.git
-   ```
-2. Follow the setup instructions in the Portuguese section above.
-
-### License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Developed by [Gabriel Demetrios Lafis](https://github.com/galafis)
